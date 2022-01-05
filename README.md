@@ -23,7 +23,6 @@ Uma [carteira](https://weltonthomasferreira.github.io/trybe-project-trybewallet/
 
 ## Resultados
 
-- Projeto em grupo;
 - `3` dias de projeto;
 - `11` requisitos;
 - Percentual de cumprimento de requisitos obrigatórios `80.00%`;
